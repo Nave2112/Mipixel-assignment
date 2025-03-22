@@ -13,7 +13,7 @@ module.exports = (on, config) => {
         fs.writeFileSync(filePath, data, 'binary'); // Save the logo as binary
         return null; // Return null to indicate success
       } catch (err) {
-        throw new Error(Failed to save logo: ${err.message});
+        throw new Error(`Failed to save logo: ${err.message}`);
       }
     },
   });
