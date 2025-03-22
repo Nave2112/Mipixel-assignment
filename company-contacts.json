@@ -1,0 +1,34 @@
+[
+  {
+    "company": "A._Menarini_Farmaceutica_Internazionale_SRL",
+    "contact": {
+      "address": "Menarini House, Mercury Park, Wycombe Lane, Wooburn Green, Buckinghamshire, HP10 0HH",
+      "telephone": "0800 085 8678",
+      "fax": "+44 (0) 1628 856402",
+      "medicalEmail": "menarini@medinformation.co.uk",
+      "medicalDirectLine": "0800 085 8678"
+    },
+    "logo": "A._Menarini_Farmaceutica_Internazionale_SRL_logo.png"
+  },
+  {
+    "company": "ADVANZ_Pharma",
+    "contact": {
+      "address": "Dashwood House, 69 Old Broad Street, London, EC2M 1QS, UK",
+      "telephone": "+44 (0)208 588 9131",
+      "medicalDirectLine": "+44 (0)208 588 9131",
+      "medicalEmail": "medicalinformation@advanzpharma.com"
+    },
+    "logo": "ADVANZ_Pharma_logo.png"
+  },
+  {
+    "company": "Axunio_Pharma_GmbH",
+    "contact": {
+      "address": "Van-der-Smissen-Strasse 1, Hamburg, 22767, Germany",
+      "telephone": "+ 49 (0)40 - 38 02 32 14",
+      "fax": "+ 49 (0)40 - 38 02 32 09",
+      "medicalDirectLine": "+ 49 (0)40 - 38 02 32 14",
+      "medicalEmail": "medinfo@axunio.eu"
+    },
+    "logo": "Axunio_Pharma_GmbH_logo.png"
+  }
+]
